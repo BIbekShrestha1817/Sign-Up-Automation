@@ -1,0 +1,24 @@
+{
+  "name": "internship-task",
+  "version": "1.0.0",
+  "description": "Sign Up automation with Cypress",
+  "homepage": "https://github.com/BIbekShrestha1817/Sign-Up-Automation#readme",
+  "bugs": {
+    "url": "https://github.com/BIbekShrestha1817/Sign-Up-Automation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIbekShrestha1817/Sign-Up-Automation.git"
+  },
+  "license": "ISC",
+  "author": "Bibek Shrestha",
+  "type": "commonjs",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.8.1",
+    "mailslurp-client": "^16.0.0"
+  }
+}
